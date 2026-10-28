@@ -1,0 +1,15 @@
+{
+  "name": "openclaw-genpark-escrow",
+  "version": "1.0.0",
+  "description": "OpenClaw GenPark Escrow - Cryptographic milestone escrow contract and multi-signature quorum verifier for autonomous agent service delivery.",
+  "category": "Service",
+  "mcp_entry": "mcp_server.py",
+  "python_version": ">=3.9",
+  "tags": [
+    "openclaw",
+    "escrow",
+    "multisig",
+    "smart-contracts",
+    "mcp"
+  ]
+}
